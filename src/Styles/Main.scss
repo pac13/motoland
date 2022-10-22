@@ -1,0 +1,35 @@
+@import "../components/Variables/Variables.scss";
+.motos{
+    display: flex;
+    overflow: auto;
+    scroll-snap-type: initial;
+    padding-bottom: .1rem;
+    padding: 1.3rem;
+    gap: .8rem;
+    scroll-padding: 3rem;
+    li{
+        flex: 0 0 28%;
+        scroll-snap-align: start;
+        text-align: center;
+        font-weight: $font-semi-bold;
+        img{
+            aspect-ratio: 16 / 9;
+            object-fit: cover;
+            width: 40rem;
+            filter: drop-shadow(1px 1px .09rem rgb(112, 112, 112));
+            transition: all .3s;
+            &:hover{
+                scale: 1.09;
+                transition: all .3s;
+                filter: drop-shadow(1px 1px .4rem rgb(158, 158, 158));
+            }
+        }
+    }
+}
+@media screen and (max-width: 768px){
+    .motos{
+        li{
+            flex: 0 0 45%;
+        }
+    }
+}
