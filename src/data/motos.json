@@ -1,37 +1,37 @@
 [
     {
         "id": 1,
-        "content": "/images/moto-ninja300.png",
+        "content": "https://raw.githubusercontent.com/pac13/motoland/main/public/images/moto-ninja300.png",
         "name": "Ninja 300"
     },
     {
         "id": 2,
-        "content": "/images/moto-z400.png",
+        "content": "https://raw.githubusercontent.com/pac13/motoland/main/public/images/moto-z400.png",
         "name": "z400"       
     },
     {
         "id": 3,
-        "content": "/images/moto-ninja400.png",
+        "content": "https://raw.githubusercontent.com/pac13/motoland/main/public/images/moto-ninja400.png",
         "name": "Ninja 400"
     },
     {
         "id": 4,
-        "content": "/images/moto-ninjaZx6r.png",
+        "content": "https://raw.githubusercontent.com/pac13/motoland/main/public/images/moto-ninjazx6r.png",
         "name": "Ninja Zx6r"
     },
     {
         "id": 5,
-        "content": "/images/moto-z900.png",
+        "content": "https://raw.githubusercontent.com/pac13/motoland/main/public/images/moto-z900.png",
         "name": "z900"
     },
     {
         "id": 6,
-        "content": "/images/moto-ninjaZx10r.png",
+        "content": "https://raw.githubusercontent.com/pac13/motoland/main/public/images/moto-ninjazx10r.png",
         "name": "Ninja Zx10r"
     },
     {
         "id": 7,
-        "content": "/images/moto-zh2.png",
+        "content": "https://raw.githubusercontent.com/pac13/motoland/main/public/images/moto-zh2.png",
         "name": "Zh2"    
     }
 ]
